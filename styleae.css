@@ -1,0 +1,34 @@
+*{
+    list-style:  none;
+    text-decoration: none;
+}
+header{
+    background-color: #745459;
+    width: 1400px;
+    margin: 0 auto;
+    height: 360px;
+}
+.list{
+    background-color: #251b17;
+    width: 1400px;
+    margin: 0 auto;
+    height: 90px;
+}
+.slogan{
+    background-color: #3b2c25;
+    width: 1000px;
+    margin: 0 auto;
+    height: 270px;
+}
+.list ul li{
+    float:  right;
+    line-height: 30px;
+    padding: 0 10px;
+    margin-top: 70px;
+    margin-right: 30px;
+    color: whitesmoke;
+}
+.home{
+    background-image: url(https://scontent.fdad1-3.fna.fbcdn.net/v/t1.15752-9/361979003_253893824062607_8158882805973766147_n.png?stp=cp0_dst-png&_nc_cat=110&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=euNM6ZGlTbEAX_aWoUX&_nc_ht=scontent.fdad1-3.fna&oh=03_AdTjmNyRMbMjB0NJD4fdbzeAjIZUIg6pNl8th9R2sgCNxQ&oe=64E26993);
+  
+}
